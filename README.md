@@ -1,7 +1,1 @@
-# RegistrationPortal
-A full many steps Registartion based portal 
-
-
-A person will go through MRD and then to RD for their specific event registration and there are respective CRD for coordinators of the event for showing them the list of teams in their events.
-
-A php-mysql show.
+A multi-registration portal for Kolkata's largest technical fest designed efficiently for hassle free registrations of participants for different events. It also had a feature for organizers to track down all participants ordered by events and whether they have already taken part in that event or not. It served for straight 72 hours and accepted 5000+ registrations
